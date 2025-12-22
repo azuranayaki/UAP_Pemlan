@@ -1,0 +1,3 @@
+2025-12-22 ADD 1 mie goreng
+2025-12-22 UPDATE 1 stok 100->50 harga 3900->6000
+2025-12-22 DELETE 1 mie soto
