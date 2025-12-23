@@ -1,6 +1,6 @@
 # Inventaris Toko (Java Swing)
-Aplikasi desktop sederhana untuk mengelola inventaris barang toko menggunakan **Java Swing**.  
-Fitur utama: **CRUD**, **search**, **sorting (Comparator)**, **laporan & history**, serta **persistensi data** menggunakan **File Handling** (CSV + TXT) sehingga data tidak hilang saat aplikasi ditutup.
+Sistem sederhana untuk mengelola inventaris barang toko menggunakan **Java Swing**.  
+Fitur utama: **CRUD**, **search**, **sorting (Comparator)**, **laporan & history**, serta **persistensi data** menggunakan **File Handling** (CSV + TXT) sehingga data tidak hilang saat sistem ditutup.
 ---
 ## Fitur Utama
 ### 1) GUI (Java Swing) - 4 Screen
@@ -16,4 +16,5 @@ Fitur utama: **CRUD**, **search**, **sorting (Comparator)**, **laporan & history
     - Validasi input menggunakan **try-catch**.
 4. **Laporan/History**
     - Ringkasan: total barang, total stok, total nilai stok, barang hampir habis (stok <= 3).
+
     - Menampilkan **riwayat aktivitas** CRUD dari file history.
